@@ -3,7 +3,7 @@ kind: GitRepository
 metadata:
   creationTimestamp: null
   name: podinfo-deploy
-  namespace: default
+  namespace: wego-system
 spec:
   ignore: |-
     .weave-gitops/

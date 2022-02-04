@@ -5,7 +5,7 @@ metadata:
   labels:
     wego.weave.works/app-identifier: wego-3b3b14c4bc7791ab26a33071ff9f8e7f
   name: podinfo-deploy
-  namespace: default
+  namespace: wego-system
 spec:
   branch: main
   config_url: ssh://git@github.com/mmcaya/podinfo-deploy.git

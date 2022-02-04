@@ -5,3 +5,4 @@ metadata:
   namespace: default
 resources:
 - ../../../apps/podinfo-deploy
+- ../../../apps/podinfo-deploy
